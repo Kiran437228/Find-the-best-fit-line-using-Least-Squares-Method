@@ -43,8 +43,8 @@ for i in range(len(X)):
 
 m=num/denom
 b=Y_mean-m*X_mean
-print('Register number:')
-print('Name:')
+print('Register number:212224240076')
+print('Name:Kiran Kumar CS')
 print('Slope:',m)
 print('Y-intercept:',b)
 
@@ -59,7 +59,8 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+<img width="983" height="547" alt="image" src="https://github.com/user-attachments/assets/e49e876e-8384-4a85-8e39-5f3ef44444ed" />
+
 
 
 ## Result:
